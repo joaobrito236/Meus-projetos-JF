@@ -1,0 +1,35 @@
+/* ESPAÇAMENTO DO CONTEÚDO DA PÁGINA */
+html,
+body {
+    margin: auto;
+    padding: 0;
+}
+
+
+/*  */
+.container {
+    height: 100vh;
+    background-color: #f0f0f0;
+
+}
+
+header {
+    margin-top: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+/* DEFINIÇÃO DA FONTE */
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Roboto', sans-serif;
+    color: #303030;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #5e5e5e;
+}
